@@ -9,6 +9,9 @@ namespace TelefonDefteri
     {
         static void Main(string[] args)
         {
+            // kodlama yapıldı
+
+            // haha hı hı hoho
         }
     }
 }
